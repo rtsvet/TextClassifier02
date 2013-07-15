@@ -1,4 +1,4 @@
-package textclassifier01;
+package textclassifier02;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -17,7 +17,7 @@ import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.Remove;
 import weka.filters.unsupervised.attribute.StringToWordVector;
 
-public class TextClassifier01 {
+public class TextClassifier02 {
 
     private static final String DATAFILE = "/export/Development/DataMining/Weka/weka-3-6-9/data/iris.2D.arff";
 
